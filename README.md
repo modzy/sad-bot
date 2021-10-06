@@ -40,5 +40,5 @@ You seem sad :slightly_frowning_face:
 
 ## Credits
 Sad bot is built based on a tutorial by [Saurav Shrivastav](https://github.com/Saurav-Shrivastav)
-* Medium Article: [How to build your first slack bot in 2020 with Python & Flask using the Slack Events-API]()
+* Medium Article: [How to build your first slack bot in 2020 with Python & Flask using the Slack Events-API](https://medium.com/developer-student-clubs-tiet/how-to-build-your-first-slack-bot-in-2020-with-python-flask-using-the-slack-events-api-4b20ae7b4f86)
 * Slack bot tutorial repo: https://github.com/Saurav-Shrivastav/Slackbot-tutorial
